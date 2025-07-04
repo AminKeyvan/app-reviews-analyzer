@@ -13,8 +13,15 @@ from wordcloud import WordCloud
 st.set_page_config(page_title="App Reviews Sentiment Analyzer", layout="wide")
 
 # Download NLTK data (only once)
-nltk.download('punkt', quiet=True)
-nltk.download('stopwords', quiet=True)
+import os
+# Set up a local nltk_data path
+nltk_data_path = os.path.join(os.getcwd(), "nltk_data")
+os.makedirs(nltk_data_path, exist_ok=True)
+# Download required resources into the local path
+nltk.download('punkt', download_dir=nltk_data_path, quiet=True)
+nltk.download('stopwords', download_dir=nltk_data_path, quiet=True)
+# Tell NLTK to look in this path
+nltk.data.path.append(nltk_data_path)
 
 # Constants
 sentiment_order = ['Positive', 'Neutral', 'Negative']
