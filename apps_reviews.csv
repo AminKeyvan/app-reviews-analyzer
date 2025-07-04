@@ -1,0 +1,401 @@
+app_name,platform,review_text,rating,review_date,country
+BudgetMaster,iOS,Some features are useful but needs improvement.,3,2025-05-01,SE
+BudgetMaster,iOS,Absolutely love this app!,4,2025-01-18,NL
+BudgetMaster,iOS,Absolutely love this app!,4,2025-01-01,FR
+SleepCycle,iOS,This app exceeded my expectations!,4,2025-05-20,BR
+InvestGenius,Android,"Amazing experience, really helpful.",5,2025-02-19,US
+ExpenseLog,Android,Waste of time and money.,2,2025-02-13,SE
+BudgetMaster,iOS,Waste of time and money.,1,2025-02-09,IN
+InvestGenius,Android,Highly recommended for daily use.,5,2025-01-24,US
+BudgetMaster,Android,Highly recommended for daily use.,4,2025-05-20,UK
+DailyYoga,iOS,Crashes every time I use it.,1,2025-01-16,UK
+CryptoTrack,iOS,This app exceeded my expectations!,5,2025-05-08,FR
+CryptoTrack,Android,Waste of time and money.,2,2025-05-20,CA
+MindfulSleep,Android,"Amazing experience, really helpful.",4,2025-06-19,UK
+SleepCycle,iOS,It works great and is very user friendly.,4,2025-04-12,DE
+SleepCycle,iOS,Absolutely love this app!,5,2025-01-13,CA
+MindfulSleep,iOS,Absolutely love this app!,4,2025-04-21,CA
+MindfulSleep,Android,This app exceeded my expectations!,4,2025-03-19,FR
+TaskHero,iOS,Very disappointed with the performance.,2,2025-01-03,SE
+SleepCycle,Android,Highly recommended for daily use.,4,2025-01-02,NL
+ExpenseLog,Android,"Amazing experience, really helpful.",5,2025-01-15,FR
+SleepCycle,Android,Absolutely love this app!,5,2025-02-08,UK
+FocusZen,iOS,This app exceeded my expectations!,4,2025-02-11,IN
+ExpenseLog,Android,"Does what it says, nothing more.",3,2025-04-05,BR
+MyFitnessPal,iOS,It works great and is very user friendly.,5,2025-04-23,BR
+BudgetMaster,Android,"Terrible experience, full of bugs.",2,2025-01-02,IN
+CryptoTrack,iOS,It works great and is very user friendly.,5,2025-04-15,BR
+SleepCycle,iOS,Some features are useful but needs improvement.,3,2025-02-04,DE
+SleepCycle,iOS,"It's okay, not great.",3,2025-05-16,NL
+BudgetMaster,Android,Some features are useful but needs improvement.,3,2025-05-03,SE
+InvestGenius,iOS,Absolutely love this app!,5,2025-05-13,UK
+SleepCycle,iOS,Highly recommended for daily use.,4,2025-04-12,DE
+FocusZen,Android,This app exceeded my expectations!,5,2025-03-19,BR
+MindfulSleep,iOS,Average performance.,3,2025-02-08,SE
+TaskHero,Android,"It's okay, not great.",3,2025-03-25,UK
+DailyYoga,iOS,Highly recommended for daily use.,4,2025-04-21,NL
+MindfulSleep,iOS,Absolutely love this app!,5,2025-02-20,UK
+MindfulSleep,iOS,Absolutely love this app!,5,2025-06-03,US
+SleepCycle,iOS,"Amazing experience, really helpful.",4,2025-06-14,SE
+SleepCycle,iOS,"Amazing experience, really helpful.",4,2024-12-29,NL
+TaskHero,Android,Unreliable and poorly designed.,1,2025-05-24,FR
+DailyYoga,Android,Absolutely love this app!,4,2025-06-02,IN
+BudgetMaster,iOS,Absolutely love this app!,5,2025-01-28,IN
+MindfulSleep,iOS,"Amazing experience, really helpful.",4,2025-05-12,FR
+ExpenseLog,iOS,Absolutely love this app!,4,2025-03-20,SE
+TaskHero,iOS,Highly recommended for daily use.,4,2025-03-04,US
+MyFitnessPal,iOS,Unreliable and poorly designed.,2,2025-02-19,FR
+TaskHero,iOS,"Amazing experience, really helpful.",5,2025-01-27,IN
+ExpenseLog,iOS,Works fine but could be better.,3,2025-02-07,IN
+CryptoTrack,Android,This app exceeded my expectations!,4,2025-05-25,BR
+FocusZen,iOS,"It's okay, not great.",3,2025-03-03,SE
+InvestGenius,iOS,Very disappointed with the performance.,1,2025-01-16,CA
+TaskHero,iOS,Absolutely love this app!,5,2025-01-15,US
+FocusZen,iOS,Crashes every time I use it.,1,2025-03-11,NL
+ExpenseLog,iOS,"Does what it says, nothing more.",3,2025-01-15,NL
+MyFitnessPal,iOS,Highly recommended for daily use.,4,2025-03-07,IN
+SleepCycle,Android,Average performance.,3,2025-06-10,SE
+MindfulSleep,Android,Waste of time and money.,2,2025-03-04,IN
+TaskHero,Android,Very disappointed with the performance.,1,2025-04-24,UK
+InvestGenius,iOS,Highly recommended for daily use.,4,2025-02-17,UK
+CryptoTrack,iOS,"Amazing experience, really helpful.",5,2025-06-02,CA
+DailyYoga,Android,Highly recommended for daily use.,4,2025-01-05,DE
+CryptoTrack,iOS,"It's okay, not great.",3,2025-05-18,BR
+FocusZen,Android,Highly recommended for daily use.,5,2025-03-27,UK
+FocusZen,Android,It works great and is very user friendly.,4,2025-04-11,SE
+MindfulSleep,Android,Absolutely love this app!,4,2025-01-21,BR
+BudgetMaster,Android,Waste of time and money.,1,2025-06-25,SE
+FocusZen,Android,Highly recommended for daily use.,5,2025-03-11,DE
+ExpenseLog,iOS,Crashes every time I use it.,1,2025-01-12,UK
+SleepCycle,iOS,"Amazing experience, really helpful.",4,2025-04-14,CA
+ExpenseLog,iOS,"It's okay, not great.",3,2025-02-22,US
+DailyYoga,iOS,It works great and is very user friendly.,4,2025-06-07,FR
+SleepCycle,Android,"Amazing experience, really helpful.",5,2025-04-29,NL
+FocusZen,iOS,Waste of time and money.,1,2025-04-27,IN
+ExpenseLog,iOS,"Terrible experience, full of bugs.",2,2025-06-17,SE
+ExpenseLog,iOS,Works fine but could be better.,3,2025-06-13,AU
+DailyYoga,Android,Some features are useful but needs improvement.,3,2025-03-08,FR
+ExpenseLog,Android,It works great and is very user friendly.,5,2025-04-19,SE
+DailyYoga,Android,"It's okay, not great.",3,2025-02-03,BR
+BudgetMaster,Android,It works great and is very user friendly.,4,2025-05-13,DE
+MyFitnessPal,iOS,It works great and is very user friendly.,4,2025-01-10,NL
+ExpenseLog,iOS,"Amazing experience, really helpful.",5,2025-01-05,IN
+CryptoTrack,iOS,Very disappointed with the performance.,1,2025-05-05,IN
+MindfulSleep,Android,Waste of time and money.,1,2025-02-10,IN
+InvestGenius,Android,It works great and is very user friendly.,5,2025-05-27,UK
+SleepCycle,Android,Average performance.,3,2025-02-22,IN
+SleepCycle,iOS,This app exceeded my expectations!,4,2025-01-12,FR
+FocusZen,Android,Absolutely love this app!,4,2025-06-12,IN
+CryptoTrack,Android,Highly recommended for daily use.,4,2025-02-11,FR
+InvestGenius,Android,"Amazing experience, really helpful.",4,2025-06-14,AU
+SleepCycle,Android,It works great and is very user friendly.,4,2025-01-16,DE
+SleepCycle,Android,"Amazing experience, really helpful.",5,2025-03-11,UK
+CryptoTrack,iOS,"Terrible experience, full of bugs.",2,2025-02-19,FR
+MindfulSleep,Android,Absolutely love this app!,5,2025-03-26,NL
+TaskHero,Android,Unreliable and poorly designed.,2,2025-04-30,NL
+TaskHero,Android,"Terrible experience, full of bugs.",2,2025-06-07,FR
+BudgetMaster,Android,Very disappointed with the performance.,2,2025-03-08,FR
+TaskHero,iOS,"It's okay, not great.",3,2025-01-28,BR
+TaskHero,iOS,Highly recommended for daily use.,4,2025-03-09,AU
+InvestGenius,Android,Highly recommended for daily use.,4,2025-03-06,AU
+ExpenseLog,Android,This app exceeded my expectations!,5,2025-02-06,DE
+TaskHero,Android,It works great and is very user friendly.,5,2025-05-07,FR
+SleepCycle,Android,"It's okay, not great.",3,2025-02-17,FR
+CryptoTrack,iOS,"Does what it says, nothing more.",3,2025-05-13,SE
+BudgetMaster,iOS,Some features are useful but needs improvement.,3,2025-06-27,DE
+MindfulSleep,iOS,Highly recommended for daily use.,4,2025-05-09,IN
+TaskHero,Android,Works fine but could be better.,3,2025-05-02,US
+ExpenseLog,iOS,"It's okay, not great.",3,2025-01-10,NL
+DailyYoga,Android,This app exceeded my expectations!,5,2025-04-25,IN
+SleepCycle,iOS,Works fine but could be better.,3,2025-04-30,AU
+TaskHero,iOS,Works fine but could be better.,3,2025-01-30,IN
+FocusZen,Android,Highly recommended for daily use.,5,2025-04-10,DE
+MyFitnessPal,Android,Absolutely love this app!,4,2025-05-18,NL
+BudgetMaster,Android,"Amazing experience, really helpful.",5,2025-02-13,DE
+MyFitnessPal,Android,Works fine but could be better.,3,2025-01-28,IN
+DailyYoga,Android,Works fine but could be better.,3,2025-03-27,IN
+CryptoTrack,iOS,Very disappointed with the performance.,1,2025-03-11,AU
+MyFitnessPal,Android,Absolutely love this app!,4,2025-02-18,FR
+MyFitnessPal,iOS,Highly recommended for daily use.,5,2025-06-25,FR
+FocusZen,iOS,Absolutely love this app!,4,2025-05-01,DE
+InvestGenius,iOS,It works great and is very user friendly.,4,2025-05-10,AU
+FocusZen,iOS,Absolutely love this app!,5,2025-04-15,DE
+InvestGenius,iOS,This app exceeded my expectations!,4,2025-02-08,SE
+ExpenseLog,iOS,"Amazing experience, really helpful.",4,2025-05-09,UK
+BudgetMaster,Android,Highly recommended for daily use.,5,2025-02-28,NL
+MyFitnessPal,Android,It works great and is very user friendly.,4,2025-06-09,BR
+BudgetMaster,Android,This app exceeded my expectations!,5,2025-05-26,US
+BudgetMaster,Android,This app exceeded my expectations!,4,2025-05-27,CA
+FocusZen,Android,It works great and is very user friendly.,5,2025-01-07,DE
+InvestGenius,Android,Highly recommended for daily use.,4,2025-02-10,AU
+CryptoTrack,Android,Absolutely love this app!,5,2025-06-05,FR
+CryptoTrack,Android,Highly recommended for daily use.,5,2025-01-03,FR
+InvestGenius,Android,Waste of time and money.,1,2025-06-02,CA
+FocusZen,Android,Average performance.,3,2025-02-27,FR
+DailyYoga,Android,It works great and is very user friendly.,5,2025-03-15,NL
+SleepCycle,iOS,Absolutely love this app!,5,2025-02-17,BR
+MindfulSleep,Android,"Amazing experience, really helpful.",4,2025-01-09,AU
+TaskHero,Android,Absolutely love this app!,5,2025-02-06,AU
+CryptoTrack,iOS,It works great and is very user friendly.,4,2025-06-23,IN
+InvestGenius,Android,It works great and is very user friendly.,4,2025-04-17,AU
+ExpenseLog,Android,It works great and is very user friendly.,5,2025-06-16,CA
+CryptoTrack,Android,Crashes every time I use it.,2,2025-05-16,FR
+DailyYoga,iOS,"Amazing experience, really helpful.",5,2025-02-27,BR
+MindfulSleep,iOS,"Does what it says, nothing more.",3,2025-02-07,AU
+SleepCycle,Android,It works great and is very user friendly.,5,2025-05-04,UK
+MindfulSleep,Android,"Does what it says, nothing more.",3,2025-04-03,DE
+FocusZen,Android,Highly recommended for daily use.,5,2025-03-14,US
+CryptoTrack,iOS,"Terrible experience, full of bugs.",2,2025-06-17,AU
+InvestGenius,Android,It works great and is very user friendly.,4,2025-06-23,AU
+FocusZen,iOS,This app exceeded my expectations!,5,2025-05-01,SE
+BudgetMaster,iOS,Highly recommended for daily use.,4,2025-03-27,IN
+MyFitnessPal,iOS,It works great and is very user friendly.,5,2025-01-24,DE
+BudgetMaster,iOS,This app exceeded my expectations!,4,2025-02-17,UK
+InvestGenius,iOS,Works fine but could be better.,3,2025-01-24,BR
+CryptoTrack,Android,Absolutely love this app!,4,2025-02-13,SE
+InvestGenius,iOS,It works great and is very user friendly.,4,2025-05-21,FR
+BudgetMaster,iOS,"Terrible experience, full of bugs.",2,2025-04-16,FR
+FocusZen,iOS,Highly recommended for daily use.,4,2025-04-11,IN
+TaskHero,Android,Average performance.,3,2025-02-17,US
+TaskHero,iOS,Highly recommended for daily use.,5,2025-05-22,FR
+MindfulSleep,Android,"Amazing experience, really helpful.",4,2025-04-20,UK
+CryptoTrack,iOS,Waste of time and money.,1,2025-03-21,UK
+InvestGenius,Android,Waste of time and money.,2,2025-06-20,AU
+ExpenseLog,Android,This app exceeded my expectations!,4,2025-04-20,BR
+BudgetMaster,iOS,Highly recommended for daily use.,5,2025-03-15,IN
+CryptoTrack,iOS,"Does what it says, nothing more.",3,2025-03-08,UK
+InvestGenius,iOS,"Amazing experience, really helpful.",4,2025-02-08,SE
+TaskHero,Android,Very disappointed with the performance.,2,2025-01-23,SE
+ExpenseLog,Android,This app exceeded my expectations!,4,2025-04-05,UK
+DailyYoga,Android,It works great and is very user friendly.,5,2025-04-02,UK
+ExpenseLog,Android,This app exceeded my expectations!,4,2025-01-14,SE
+SleepCycle,iOS,Waste of time and money.,1,2025-05-23,AU
+DailyYoga,iOS,Absolutely love this app!,5,2025-01-06,IN
+SleepCycle,Android,Very disappointed with the performance.,1,2025-06-13,IN
+DailyYoga,Android,"Amazing experience, really helpful.",5,2025-01-18,AU
+CryptoTrack,iOS,This app exceeded my expectations!,4,2025-01-26,SE
+BudgetMaster,iOS,"Amazing experience, really helpful.",5,2025-04-28,NL
+CryptoTrack,iOS,"Amazing experience, really helpful.",4,2025-01-28,BR
+BudgetMaster,Android,"Amazing experience, really helpful.",4,2025-05-30,UK
+TaskHero,Android,This app exceeded my expectations!,5,2025-05-09,BR
+TaskHero,Android,"Amazing experience, really helpful.",4,2025-03-19,FR
+ExpenseLog,iOS,"Amazing experience, really helpful.",4,2025-04-22,NL
+BudgetMaster,Android,"Does what it says, nothing more.",3,2025-01-09,IN
+CryptoTrack,iOS,Highly recommended for daily use.,5,2025-03-12,SE
+InvestGenius,Android,This app exceeded my expectations!,4,2025-03-12,DE
+DailyYoga,Android,This app exceeded my expectations!,5,2025-04-22,BR
+TaskHero,Android,"Amazing experience, really helpful.",5,2025-03-28,FR
+InvestGenius,Android,This app exceeded my expectations!,5,2025-04-09,FR
+MyFitnessPal,Android,This app exceeded my expectations!,5,2025-02-14,AU
+ExpenseLog,iOS,"Amazing experience, really helpful.",5,2025-04-14,AU
+SleepCycle,Android,This app exceeded my expectations!,5,2025-06-13,UK
+BudgetMaster,Android,This app exceeded my expectations!,5,2024-12-30,US
+FocusZen,iOS,It works great and is very user friendly.,5,2025-05-09,AU
+DailyYoga,Android,Highly recommended for daily use.,5,2025-05-16,UK
+ExpenseLog,Android,Absolutely love this app!,5,2025-01-19,AU
+InvestGenius,iOS,It works great and is very user friendly.,4,2025-05-09,FR
+MindfulSleep,iOS,Absolutely love this app!,5,2025-06-17,IN
+TaskHero,iOS,Absolutely love this app!,5,2025-04-11,SE
+DailyYoga,iOS,Works fine but could be better.,3,2025-05-22,SE
+FocusZen,iOS,"Amazing experience, really helpful.",4,2025-02-17,BR
+FocusZen,iOS,This app exceeded my expectations!,4,2025-05-26,UK
+InvestGenius,iOS,"Amazing experience, really helpful.",5,2025-05-01,AU
+MindfulSleep,Android,Absolutely love this app!,4,2025-03-04,SE
+TaskHero,Android,Unreliable and poorly designed.,2,2025-01-18,BR
+DailyYoga,Android,This app exceeded my expectations!,4,2025-02-22,IN
+CryptoTrack,iOS,Absolutely love this app!,5,2025-03-22,IN
+MindfulSleep,Android,Average performance.,3,2025-01-27,NL
+CryptoTrack,iOS,"Does what it says, nothing more.",3,2025-03-26,IN
+MyFitnessPal,Android,"Amazing experience, really helpful.",5,2024-12-28,SE
+InvestGenius,Android,Highly recommended for daily use.,4,2025-05-17,FR
+CryptoTrack,iOS,Absolutely love this app!,5,2025-06-16,UK
+CryptoTrack,Android,"Amazing experience, really helpful.",4,2025-05-16,US
+BudgetMaster,Android,"Amazing experience, really helpful.",5,2025-02-17,CA
+MindfulSleep,iOS,It works great and is very user friendly.,5,2025-04-04,BR
+SleepCycle,Android,Works fine but could be better.,3,2025-05-24,DE
+CryptoTrack,Android,Absolutely love this app!,4,2025-01-31,UK
+FocusZen,iOS,Highly recommended for daily use.,5,2025-04-05,IN
+DailyYoga,iOS,Very disappointed with the performance.,1,2025-06-23,IN
+BudgetMaster,Android,It works great and is very user friendly.,4,2025-01-17,CA
+InvestGenius,Android,Crashes every time I use it.,2,2025-06-15,CA
+TaskHero,iOS,Highly recommended for daily use.,5,2025-04-28,NL
+DailyYoga,iOS,This app exceeded my expectations!,4,2025-02-23,UK
+CryptoTrack,Android,"Terrible experience, full of bugs.",2,2025-06-09,UK
+CryptoTrack,Android,Very disappointed with the performance.,1,2025-05-01,UK
+FocusZen,Android,"Does what it says, nothing more.",3,2025-04-05,AU
+ExpenseLog,iOS,This app exceeded my expectations!,4,2025-04-25,IN
+InvestGenius,Android,Waste of time and money.,1,2025-02-04,SE
+MindfulSleep,Android,It works great and is very user friendly.,5,2025-01-26,AU
+BudgetMaster,Android,It works great and is very user friendly.,5,2025-03-10,BR
+MyFitnessPal,Android,"Terrible experience, full of bugs.",2,2025-05-25,SE
+TaskHero,iOS,Highly recommended for daily use.,4,2025-01-28,FR
+MyFitnessPal,iOS,Some features are useful but needs improvement.,3,2025-04-11,CA
+InvestGenius,iOS,Highly recommended for daily use.,5,2025-05-28,UK
+MindfulSleep,iOS,Some features are useful but needs improvement.,3,2025-06-25,FR
+InvestGenius,iOS,"Amazing experience, really helpful.",5,2025-04-09,SE
+FocusZen,Android,"Terrible experience, full of bugs.",2,2025-06-24,DE
+FocusZen,iOS,"Amazing experience, really helpful.",5,2024-12-28,CA
+InvestGenius,Android,"Terrible experience, full of bugs.",2,2025-04-23,US
+FocusZen,Android,"Terrible experience, full of bugs.",2,2025-02-28,BR
+TaskHero,Android,Absolutely love this app!,4,2025-04-01,CA
+TaskHero,iOS,Very disappointed with the performance.,1,2024-12-31,NL
+CryptoTrack,Android,Unreliable and poorly designed.,1,2025-01-18,US
+ExpenseLog,Android,This app exceeded my expectations!,4,2025-06-26,UK
+BudgetMaster,iOS,Absolutely love this app!,4,2025-03-08,CA
+FocusZen,Android,Highly recommended for daily use.,4,2025-06-16,NL
+DailyYoga,Android,This app exceeded my expectations!,4,2025-06-07,NL
+SleepCycle,Android,Absolutely love this app!,5,2025-06-02,UK
+SleepCycle,iOS,"Amazing experience, really helpful.",4,2025-02-25,IN
+ExpenseLog,Android,"It's okay, not great.",3,2025-02-12,AU
+DailyYoga,Android,It works great and is very user friendly.,4,2025-01-08,CA
+FocusZen,Android,"Terrible experience, full of bugs.",1,2025-02-12,UK
+BudgetMaster,Android,It works great and is very user friendly.,5,2025-06-16,UK
+FocusZen,iOS,Highly recommended for daily use.,5,2025-04-17,NL
+DailyYoga,iOS,Works fine but could be better.,3,2025-01-12,IN
+MyFitnessPal,Android,"It's okay, not great.",3,2025-01-13,NL
+InvestGenius,iOS,"Amazing experience, really helpful.",4,2025-05-19,DE
+BudgetMaster,Android,Average performance.,3,2025-04-01,BR
+InvestGenius,iOS,Highly recommended for daily use.,5,2025-06-04,IN
+InvestGenius,iOS,It works great and is very user friendly.,5,2025-01-10,NL
+MyFitnessPal,iOS,It works great and is very user friendly.,5,2025-05-24,SE
+DailyYoga,Android,Crashes every time I use it.,2,2025-04-10,US
+InvestGenius,Android,"Terrible experience, full of bugs.",2,2025-05-25,UK
+BudgetMaster,iOS,It works great and is very user friendly.,4,2025-01-21,IN
+FocusZen,Android,Highly recommended for daily use.,5,2025-01-21,SE
+InvestGenius,iOS,Very disappointed with the performance.,2,2025-05-05,US
+MyFitnessPal,iOS,This app exceeded my expectations!,4,2025-03-30,SE
+TaskHero,Android,"Does what it says, nothing more.",3,2025-04-13,IN
+BudgetMaster,Android,Very disappointed with the performance.,2,2025-01-29,IN
+TaskHero,Android,"Does what it says, nothing more.",3,2025-02-17,US
+MyFitnessPal,iOS,Some features are useful but needs improvement.,3,2025-04-09,FR
+FocusZen,Android,"It's okay, not great.",3,2025-06-15,SE
+TaskHero,Android,Very disappointed with the performance.,2,2025-04-24,DE
+MindfulSleep,Android,"It's okay, not great.",3,2025-03-20,UK
+ExpenseLog,iOS,It works great and is very user friendly.,5,2025-02-07,AU
+InvestGenius,Android,This app exceeded my expectations!,4,2025-06-26,NL
+CryptoTrack,iOS,Waste of time and money.,1,2025-04-11,IN
+FocusZen,Android,"Terrible experience, full of bugs.",1,2025-05-23,CA
+MindfulSleep,Android,Absolutely love this app!,4,2025-05-18,NL
+ExpenseLog,Android,Some features are useful but needs improvement.,3,2025-05-10,CA
+BudgetMaster,iOS,It works great and is very user friendly.,4,2025-02-05,BR
+DailyYoga,iOS,Waste of time and money.,2,2025-05-15,FR
+MindfulSleep,iOS,"Terrible experience, full of bugs.",2,2025-02-26,NL
+FocusZen,Android,Highly recommended for daily use.,5,2025-03-15,AU
+TaskHero,Android,"Terrible experience, full of bugs.",2,2025-05-07,CA
+TaskHero,Android,Highly recommended for daily use.,5,2025-05-03,SE
+MyFitnessPal,Android,Unreliable and poorly designed.,1,2025-03-10,BR
+TaskHero,iOS,Average performance.,3,2025-03-23,US
+BudgetMaster,iOS,This app exceeded my expectations!,4,2025-06-20,NL
+TaskHero,iOS,Highly recommended for daily use.,5,2025-04-07,AU
+MindfulSleep,Android,"Amazing experience, really helpful.",4,2025-03-25,NL
+MyFitnessPal,Android,It works great and is very user friendly.,5,2025-01-20,UK
+BudgetMaster,iOS,Works fine but could be better.,3,2025-02-14,US
+TaskHero,iOS,Average performance.,3,2025-02-09,CA
+ExpenseLog,Android,Absolutely love this app!,4,2025-01-09,CA
+DailyYoga,iOS,Unreliable and poorly designed.,1,2025-03-03,CA
+CryptoTrack,Android,It works great and is very user friendly.,5,2025-01-01,NL
+BudgetMaster,iOS,Works fine but could be better.,3,2025-04-21,CA
+FocusZen,iOS,It works great and is very user friendly.,4,2025-04-14,SE
+FocusZen,iOS,Absolutely love this app!,4,2025-02-10,IN
+DailyYoga,Android,It works great and is very user friendly.,5,2025-04-21,DE
+TaskHero,iOS,"Amazing experience, really helpful.",5,2025-02-08,FR
+BudgetMaster,Android,Highly recommended for daily use.,4,2024-12-29,UK
+SleepCycle,iOS,Highly recommended for daily use.,5,2025-01-10,CA
+FocusZen,Android,Very disappointed with the performance.,2,2025-05-14,DE
+FocusZen,Android,"Amazing experience, really helpful.",4,2025-04-29,US
+TaskHero,Android,Some features are useful but needs improvement.,3,2025-01-08,AU
+CryptoTrack,Android,"Does what it says, nothing more.",3,2025-02-10,FR
+TaskHero,Android,Highly recommended for daily use.,5,2025-01-10,SE
+SleepCycle,Android,Highly recommended for daily use.,5,2025-06-21,DE
+FocusZen,Android,It works great and is very user friendly.,4,2025-01-03,US
+SleepCycle,iOS,It works great and is very user friendly.,5,2025-06-12,BR
+BudgetMaster,iOS,Highly recommended for daily use.,4,2025-03-02,SE
+FocusZen,Android,"Amazing experience, really helpful.",5,2025-01-10,UK
+TaskHero,Android,This app exceeded my expectations!,4,2025-04-06,US
+SleepCycle,Android,"It's okay, not great.",3,2025-02-12,FR
+DailyYoga,iOS,"It's okay, not great.",3,2025-02-20,US
+DailyYoga,iOS,Unreliable and poorly designed.,1,2025-05-06,DE
+FocusZen,Android,Absolutely love this app!,4,2025-04-01,AU
+MyFitnessPal,Android,Highly recommended for daily use.,5,2025-02-07,FR
+InvestGenius,Android,"Amazing experience, really helpful.",5,2025-04-11,UK
+CryptoTrack,iOS,"Does what it says, nothing more.",3,2025-01-22,US
+TaskHero,iOS,This app exceeded my expectations!,5,2025-05-17,UK
+InvestGenius,iOS,"Amazing experience, really helpful.",4,2025-06-27,BR
+CryptoTrack,Android,"Amazing experience, really helpful.",4,2025-06-17,US
+InvestGenius,Android,Absolutely love this app!,4,2025-04-17,DE
+SleepCycle,Android,Highly recommended for daily use.,5,2025-04-18,UK
+SleepCycle,iOS,Absolutely love this app!,5,2025-03-29,IN
+ExpenseLog,Android,It works great and is very user friendly.,5,2025-02-13,SE
+BudgetMaster,Android,Absolutely love this app!,5,2025-05-29,FR
+InvestGenius,Android,Very disappointed with the performance.,1,2025-03-29,DE
+DailyYoga,iOS,This app exceeded my expectations!,5,2025-06-02,AU
+FocusZen,iOS,This app exceeded my expectations!,5,2025-03-17,UK
+MyFitnessPal,Android,Crashes every time I use it.,1,2025-02-02,FR
+MyFitnessPal,Android,Highly recommended for daily use.,4,2025-01-15,SE
+TaskHero,Android,"Amazing experience, really helpful.",5,2025-01-15,US
+CryptoTrack,Android,It works great and is very user friendly.,5,2025-05-04,US
+CryptoTrack,iOS,This app exceeded my expectations!,4,2025-03-21,CA
+TaskHero,Android,This app exceeded my expectations!,5,2025-03-06,CA
+TaskHero,Android,"It's okay, not great.",3,2025-03-20,BR
+ExpenseLog,iOS,"Amazing experience, really helpful.",4,2025-03-17,IN
+SleepCycle,Android,Waste of time and money.,2,2025-03-28,CA
+CryptoTrack,Android,This app exceeded my expectations!,4,2025-06-13,AU
+FocusZen,Android,It works great and is very user friendly.,4,2025-05-18,CA
+InvestGenius,Android,Absolutely love this app!,4,2025-01-07,SE
+BudgetMaster,Android,"Amazing experience, really helpful.",4,2025-05-07,CA
+MyFitnessPal,iOS,This app exceeded my expectations!,4,2025-05-03,NL
+MyFitnessPal,iOS,Average performance.,3,2025-05-02,UK
+DailyYoga,Android,Crashes every time I use it.,1,2025-01-16,NL
+TaskHero,Android,Absolutely love this app!,4,2025-01-08,CA
+InvestGenius,iOS,Average performance.,3,2025-03-16,BR
+CryptoTrack,iOS,Crashes every time I use it.,1,2025-05-18,UK
+TaskHero,Android,Waste of time and money.,2,2025-03-03,BR
+TaskHero,iOS,Works fine but could be better.,3,2025-06-01,NL
+MindfulSleep,iOS,This app exceeded my expectations!,5,2025-06-13,DE
+FocusZen,Android,It works great and is very user friendly.,5,2025-01-18,UK
+DailyYoga,iOS,It works great and is very user friendly.,4,2025-02-14,BR
+FocusZen,iOS,Absolutely love this app!,4,2025-02-03,CA
+MindfulSleep,iOS,Absolutely love this app!,5,2025-02-02,FR
+DailyYoga,Android,Highly recommended for daily use.,5,2025-04-11,AU
+FocusZen,iOS,Works fine but could be better.,3,2025-03-25,UK
+SleepCycle,Android,Absolutely love this app!,5,2025-01-24,IN
+FocusZen,Android,Highly recommended for daily use.,4,2025-03-19,UK
+DailyYoga,iOS,"Amazing experience, really helpful.",4,2025-02-01,BR
+FocusZen,Android,Absolutely love this app!,5,2025-02-20,BR
+BudgetMaster,iOS,Waste of time and money.,2,2025-03-27,SE
+MindfulSleep,Android,Absolutely love this app!,5,2025-02-14,BR
+CryptoTrack,iOS,Average performance.,3,2025-06-15,BR
+InvestGenius,iOS,Highly recommended for daily use.,4,2025-06-25,BR
+InvestGenius,iOS,Highly recommended for daily use.,4,2025-01-11,DE
+DailyYoga,iOS,Very disappointed with the performance.,1,2025-03-24,US
+CryptoTrack,iOS,Absolutely love this app!,4,2025-06-02,NL
+TaskHero,Android,This app exceeded my expectations!,4,2025-06-13,SE
+CryptoTrack,Android,"Amazing experience, really helpful.",4,2025-06-12,UK
+TaskHero,Android,It works great and is very user friendly.,4,2025-04-13,AU
+InvestGenius,iOS,It works great and is very user friendly.,5,2025-01-16,CA
+DailyYoga,Android,Highly recommended for daily use.,5,2025-01-06,DE
+SleepCycle,iOS,"It's okay, not great.",3,2025-05-03,CA
+CryptoTrack,Android,"Terrible experience, full of bugs.",2,2025-04-11,FR
+CryptoTrack,Android,"Amazing experience, really helpful.",4,2025-06-08,NL
+DailyYoga,Android,This app exceeded my expectations!,5,2024-12-30,FR
+SleepCycle,Android,This app exceeded my expectations!,5,2025-01-15,AU
+MyFitnessPal,iOS,"Amazing experience, really helpful.",4,2025-06-25,IN
+MindfulSleep,Android,Unreliable and poorly designed.,1,2025-05-23,US
+InvestGenius,Android,Absolutely love this app!,4,2025-06-10,SE
+ExpenseLog,iOS,This app exceeded my expectations!,5,2025-02-11,SE
+DailyYoga,iOS,Very disappointed with the performance.,1,2025-01-29,IN
+MindfulSleep,Android,Works fine but could be better.,3,2025-03-16,BR
+SleepCycle,Android,"Does what it says, nothing more.",3,2025-04-01,BR
+InvestGenius,iOS,This app exceeded my expectations!,5,2025-03-31,DE
+DailyYoga,Android,"Amazing experience, really helpful.",5,2025-02-07,BR
+MindfulSleep,Android,"Terrible experience, full of bugs.",1,2025-06-13,BR
+FocusZen,Android,"Amazing experience, really helpful.",4,2025-03-15,AU
+InvestGenius,iOS,It works great and is very user friendly.,5,2025-06-21,CA
+FocusZen,Android,It works great and is very user friendly.,5,2025-01-08,NL
+InvestGenius,Android,Highly recommended for daily use.,5,2025-01-28,BR
+TaskHero,Android,It works great and is very user friendly.,5,2025-03-11,AU
+DailyYoga,iOS,Absolutely love this app!,4,2024-12-28,IN
+InvestGenius,Android,Highly recommended for daily use.,5,2025-03-13,SE
+InvestGenius,iOS,"Amazing experience, really helpful.",4,2025-02-17,US
+SleepCycle,Android,"Amazing experience, really helpful.",5,2025-06-25,DE
+MyFitnessPal,iOS,Waste of time and money.,1,2025-05-29,FR
