@@ -13,15 +13,8 @@ from wordcloud import WordCloud
 st.set_page_config(page_title="App Reviews Sentiment Analyzer", layout="wide")
 
 # Download NLTK data (only once)
-import os
-# Set up a local nltk_data path
-nltk_data_path = os.path.join(os.getcwd(), "nltk_data")
-os.makedirs(nltk_data_path, exist_ok=True)
-# Download required resources into the local path
-nltk.download('punkt', download_dir=nltk_data_path, quiet=True)
-nltk.download('stopwords', download_dir=nltk_data_path, quiet=True)
-# Tell NLTK to look in this path
-nltk.data.path.append(nltk_data_path)
+nltk.download('punkt', quiet=True)
+nltk.download('stopwords', quiet=True)
 
 # Constants
 sentiment_order = ['Positive', 'Neutral', 'Negative']
@@ -54,11 +47,16 @@ def generate_wordcloud(text):
     ).generate(text)
     return wordcloud
 
+import re
+from collections import Counter
+
 def get_word_frequencies(text):
-    stop_words = set(stopwords.words('english'))
-    words = word_tokenize(text.lower())
-    words = [w for w in words if w.isalpha() and w not in stop_words]
-    return Counter(words).most_common(20)
+    # Simple tokenizer using regex to split on non-word characters
+    words = re.findall(r'\b\w+\b', text.lower())
+    stopwords = set(['the', 'and', 'to', 'a', 'is', 'in', 'it', 'you', 'of', 'for', 'this', 'on', 'with', 'was', 'that', 'are', 'as', 'but', 'be', 'have', 'not', 'at', 'my', 'so', 'if'])
+    filtered_words = [word for word in words if word not in stopwords]
+    return dict(Counter(filtered_words).most_common(20))
+
 
 # Title and Description
 st.title("📊 App Reviews Sentiment Analyzer")
@@ -177,7 +175,7 @@ with col6:
         all_text = " ".join(filtered_df['review_text'].astype(str))
         word_freq = get_word_frequencies(all_text)
         if word_freq:
-            words, counts = zip(*word_freq)
+            words, counts = zip(*word_freq.items())
             plt.figure(figsize=(6,4))
             sns.barplot(x=list(counts), y=list(words), palette="viridis")
             plt.xlabel("Frequency")
@@ -197,3 +195,4 @@ st.download_button("📥 Download Filtered Reviews", data=csv, file_name='filter
 # Footer
 st.markdown("---")
 st.markdown("✅ *App Reviews Sentiment Analyzer — Streamlit Dashboard*")
+
