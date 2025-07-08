@@ -9,6 +9,9 @@ from textblob import TextBlob
 from collections import Counter
 from wordcloud import WordCloud
 
+with st.spinner("🔄 Loading data... Please wait."):
+    df = pd.read_csv("apps_reviews.csv")
+
 # Configure page
 st.set_page_config(page_title="App Reviews Sentiment Analyzer", layout="wide")
 
@@ -195,4 +198,6 @@ st.download_button("📥 Download Filtered Reviews", data=csv, file_name='filter
 # Footer
 st.markdown("---")
 st.markdown("✅ *App Reviews Sentiment Analyzer — Streamlit Dashboard*")
+
+st.caption("💡 This app sleeps when inactive for more than 1 hour (Streamlit free tier).")
 
